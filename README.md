@@ -2,7 +2,7 @@
 
 🚀 **AI Engineer | Finance & Investment Enthusiast | NLP, Machine Learning, Generative AI**
 
-I'm an AI Engineer specializing in **Machine Learning, NLP, Computer Vision, and Generative AI**. Currently working as an **AI Intern at Tata Elxsi**, I focus on **video & audio analysis using AI, automated expressive dubbing with multiple approaches, and cutting-edge AI research**.
+I'm an AI Engineer specializing in **Machine Learning, NLP, Computer Vision, and Generative AI**. Currently working as an **AI Engineer**, I focus on **video & audio analysis using AI, automated expressive dubbing with multiple approaches, and cutting-edge AI research**.
 
 ## 🛠 Tech Stack & Skills:
 - **Programming Languages:** Python, MATLAB
